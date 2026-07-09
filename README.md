@@ -75,10 +75,14 @@ Here are some ideas to get you started:
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+**Cybersecurity**
+ 
+![RBAC](https://img.shields.io/badge/RBAC-1B1F3B?style=for-the-badge&logo=shieldsdotio&logoColor=white)
+![Password Hashing](https://img.shields.io/badge/Password_Hashing-1B1F3B?style=for-the-badge&logo=letsencrypt&logoColor=white)
  
 **Systems & Concepts I geek out over**
  
-![RBAC](https://img.shields.io/badge/RBAC-2D3748?style=for-the-badge)
 ![WAL](https://img.shields.io/badge/Write--Ahead_Logging-2D3748?style=for-the-badge)
 ![OLAP](https://img.shields.io/badge/OLAP-2D3748?style=for-the-badge)
  
@@ -86,6 +90,11 @@ Here are some ideas to get you started:
  
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+**APIs & Communication**
+ 
+![gRPC](https://img.shields.io/badge/gRPC-2496ED?style=for-the-badge&logo=grpc&logoColor=white)
+![Tesseract OCR](https://img.shields.io/badge/Tesseract_OCR-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ---
 
 ### 🧠 Fun facts / debugging log
