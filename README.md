@@ -102,7 +102,7 @@ Here are some ideas to get you started:
 ```js
 const keisha = {
   status: "actively job hunting",
-  weapon_of_choice: ["JS", "Python", "Node.js", "coffee"],
+  weapon_of_choice: ["JS", "Python", "Node.js", "milo"],
   currentBug: "life",
   mood: () => Math.random() > 0.5 ? "shipping features" : "staring at error logs",
   favoriteSound: "npm install finishing without errors"
