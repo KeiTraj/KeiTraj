@@ -85,12 +85,12 @@ Here are some ideas to get you started:
  
 ![WAL](https://img.shields.io/badge/Write--Ahead_Logging-2D3748?style=for-the-badge)
 ![OLAP](https://img.shields.io/badge/OLAP-2D3748?style=for-the-badge)
-```
+<!--
 **AI Sidekicks**
  
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white)
-```
+-->
 **APIs & Communication**
  
 ![gRPC](https://img.shields.io/badge/gRPC-2496ED?style=for-the-badge&logo=grpc&logoColor=white)
