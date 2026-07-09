@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <h3 align="center">CS student who debugs code by day and questions her life choices by night ✨</h3>
 
 <p align="center">
-  <img src="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100&color=6C63FF&center=true&vCenter=true&width=500&lines=console.log(%22still+figuring+it+out%22);git+commit+-m+%22Fixed+it%3F%22;print(%22Hello+sleep+!%22)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100&color=6C63FF&center=true&vCenter=true&width=500&lines=console.log(%22still+figuring+it+out%22)%3B;git+commit+-m+%22Fixed+it%3F%22;print(%22Hello+sleep+!%22)" alt="Typing SVG" />
 </p>
 
 ---
