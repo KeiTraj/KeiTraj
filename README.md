@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **KeiTraj/KeiTraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -80,7 +78,7 @@ const keisha = {
 
 - 🏆 Built a Flight Booking System, a Gaming Community site, a chatbot (Prolog + ML), a C++/gRPC client-server app, and a payroll app with actual security (RBAC, hashing, the whole deal)
 - 🎨 Also dabbles in Figma because someone has to make it *look* good too
-- 📬 If you're hiring a tech-savvy VA who can also write clean code — let's talk!
+- 📬 If you're hiring a tech-savvy who can also write clean code — let's talk!
 
 ---
 
